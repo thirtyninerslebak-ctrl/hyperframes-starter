@@ -1,0 +1,13 @@
+{
+  "name": "ang-anino-ep1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 tools/build.py",
+    "dev": "npx --yes hyperframes@0.8.181 preview",
+    "check": "npx --yes hyperframes@0.8.181 check",
+    "render": "npx --yes hyperframes@0.8.181 render --fps 24 -q delivery -o renders/video-only.mp4",
+    "audio": "python3 tools/make_audio.py audio/soundtrack.wav",
+    "final": "ffmpeg -y -i renders/video-only.mp4 -i audio/soundtrack.wav -map 0:v -map 1:a -c:v copy -c:a aac -b:a 192k -shortest -movflags +faststart renders/ang-anino-sa-kagubatan-ep1.mp4"
+  }
+}
