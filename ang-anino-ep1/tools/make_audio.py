@@ -126,7 +126,7 @@ music = reverb(music, 1.8, 0.28)
 music_env = env_lin([(0, 0), (0.6, 0.0), (2.5, 1), (88, 1), (90, 0.8), (118, 0.8), (124, 0.0), (180, 0)])
 # duck under dialogue/narration so voices can be added later
 duck = np.ones(N)
-for a, b in [(21, 29.6), (45.3, 54.8), (55.3, 59.7), (75.3, 84.9), (95.3, 115.5), (140.3, 149.8)]:
+for a, b in [(21, 29.6), (45.3, 54.8), (55.3, 59.7), (75.2, 85.9), (95.3, 115.5), (136.4, 149.9)]:
     duck = np.minimum(duck, 1 - 0.35 * np.clip(np.minimum((np.arange(N) / SR - a + 0.4) / 0.4,
                                                            (b + 0.4 - np.arange(N) / SR) / 0.4), 0, 1))
 music *= music_env * duck

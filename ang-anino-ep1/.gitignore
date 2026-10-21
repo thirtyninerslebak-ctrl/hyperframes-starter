@@ -1,3 +1,5 @@
 node_modules/
 .hyperframes/
 renders/
+audio/voices/
+audio/final_mix.wav

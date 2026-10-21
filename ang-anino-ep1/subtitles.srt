@@ -19,17 +19,17 @@ NARRATOR: Para kay Daniel, bawat ani ay may katumbas na pagod...
 (For Daniel, every harvest is paid for in sweat...)
 
 5
-00:01:15,300 --> 00:01:19,000
+00:01:15,200 --> 00:01:19,600
 MARA: Parang walang nagbago rito. Pareho pa rin ang daan, pati ang mga bahay.
 (Nothing seems to have changed. Same road, same houses.)
 
 6
-00:01:19,200 --> 00:01:22,200
+00:01:19,800 --> 00:01:23,200
 DRIVER: Madamo na ang nagbag-o, Ma'am. Labi na kon gab-i.
 (A lot has changed, Ma'am. Especially at night.)
 
 7
-00:01:22,400 --> 00:01:24,900
+00:01:23,600 --> 00:01:25,900
 MARA: Bakit? Anong meron sa gabi?
 (Why? What happens at night?)
 
@@ -54,17 +54,17 @@ LOLA ISING: Sana nga, apo. Sana nga.
 (I hope so, child. I hope so.)
 
 12
-00:02:20,300 --> 00:02:23,500
+00:02:16,400 --> 00:02:20,600
 NARRATOR: Sa Sitio Malinaw, may isang kaugaliang sinusunod ng matatanda.
 (In Sitio Malinaw, the elders keep one old rule.)
 
 13
-00:02:23,700 --> 00:02:26,700
+00:02:20,800 --> 00:02:25,200
 NARRATOR: Kapag dumilim, walang batang pinapayagang lumapit sa kagubatan.
 (After dark, no child may go near the forest.)
 
 14
-00:02:26,900 --> 00:02:29,800
+00:02:25,400 --> 00:02:29,900
 NARRATOR: At kapag may tumawag mula sa dilim, huwag na huwag kang sasagot.
 (And if something calls to you from the dark, never answer.)
 
